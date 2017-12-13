@@ -1,0 +1,14 @@
+{
+    "name": "multimath",
+    "version": "2.0.0",
+    "description": "Simple multi game built with Typescript",
+    "main": "app.js",
+    "scripts": {
+        "start": "http-server"
+    },
+    "author": "Shehzad",
+    "license": "ANY",
+    "devDependencies": {
+        "http-server": "^0.9.0"
+    }
+}
